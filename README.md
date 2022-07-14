@@ -35,3 +35,9 @@ pip3 install ipaddress
 pip3 install google
 pip3 install json
 ```
+
+## Run the script
+```
+python3 proton.py
+```
+
