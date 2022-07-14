@@ -21,7 +21,7 @@
 - ⚡ ProtonMail User Footprints DEEP and DARK WEB
 
 
-[Getting Start <g-emoji class="g-emoji" alias="footprints" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png">👣</g-emoji>](#getting-started-)
+[Getting Starting <g-emoji class="g-emoji" alias="footprints" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png">👣</g-emoji>](#getting-started-)
 
 ## Instalation
 ```
