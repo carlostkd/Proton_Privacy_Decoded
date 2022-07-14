@@ -41,6 +41,11 @@ pip3 install json
 python3 proton.py
 ```
 
+### Screenshot 
+
+
+
+
 ## Known Issues:
 - :shipit: For some weird reason if you abuse from ProtonMail API the API always return all queried emails as True even if the Email is not a ProtonMail.
 ```
