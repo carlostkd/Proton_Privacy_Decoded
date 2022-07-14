@@ -18,7 +18,7 @@
 - ⚡ Check User PGP Key, creation date and Key Type
 - ⚡ Download PGP Keys
 - ⚡ Check if the IP address is from ProtonVPN and from which Country
-- ⚡ ProtonMail User Footprints clear and Dark Web
+- ⚡ ProtonMail User Footprints DEEP and DARK WEB
 
 
 [Getting Start <g-emoji class="g-emoji" alias="footprints" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png">👣</g-emoji>](#getting-started-)
