@@ -57,6 +57,22 @@ python3 proton.py
 
 
 ## Known Issues:
+
+- :shipit: Account Creation date refers only to the date of the Encrypted Key
+
+```
+The user can have more emails addrress or change the key every day?? :)
+You should compare with "traces" or do a more extensive OSINT.
+```
+```
+    That's it!
+```
+    
+
+
+
+
+
 - :shipit: For some weird reason if you abuse from ProtonMail API the API always returns all queried emails as True even if the Email is not a ProtonMail.
 ```
 do not abuse and everything runs fine
