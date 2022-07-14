@@ -45,7 +45,7 @@ python3 proton.py
 
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/carlostkd/Proton_Privacy_Decoded/master/ppd1.png">
+  <img src="https://raw.githubusercontent.com/carlostkd/Proton_Privacy_Decoded/master/ppd2.png">
 
 </p>
 
