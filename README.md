@@ -61,7 +61,7 @@ python3 proton.py
 - :shipit: Account Creation date refers only to the date of the Encrypted Key
 
 ```
-The user can have more emails addrress or change the key every day?? :)
+The user can have more email addresss or change the key every day?? :)
 You should compare with "traces" or do a more extensive OSINT.
 ```
 ```
