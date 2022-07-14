@@ -8,3 +8,14 @@
 </p>
 
 
+### Introducing PPD Proton-Privacy-Decoded
+
+## Feel free to contribute
+
+## What This Script Does?:
+
+- ⚡ Check for ProtonMail accounts and creation date
+- ⚡ Check User PGP Key, creation date and Key Type
+- ⚡ Download PGP Keys
+- ⚡ Check if the IP address is from ProtonVPN and from which Country
+- ⚡ ProtonMail User Footprints clear and Dark Web
