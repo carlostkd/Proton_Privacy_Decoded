@@ -27,3 +27,11 @@
 ```
 git clone https://github.com/carlostkd/Proton_Privacy_Decoded.git
 ```
+## Install the dependencies
+```
+pip3 install requests
+pip3 install bs4
+pip3 install ipaddress
+pip3 install google
+pip3 install json
+```
