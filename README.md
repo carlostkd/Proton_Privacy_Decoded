@@ -57,3 +57,19 @@ If you are using some vpn its possible that your vpn IP are blacklisted
 Use another api 
 Change your VPN IP
 ```
+- 👯 Did you found a Bug? Do you have any Sugestions?
+```
+Get in Touch
+```
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/carlostkd/EHR/master/ehr-sophie.svg">
+
+</p>
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/carlostkd/EHR/master/ehr-sophie-2022.svg">
+</p>
