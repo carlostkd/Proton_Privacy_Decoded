@@ -80,8 +80,8 @@ do not abuse and everything runs fine
 
 - :shipit: IP Address City Region Country etc returns values as "None"
 ```
-The script uses a public api from ipapi with a limit of 30.000 queries a month
-If you are using some vpn its possible that your vpn IP are blacklisted
+reason 1 -The script uses a public api from ipapi with a limit of 30.000 queries a month
+reason 2 -If you are using some vpn its possible that your vpn IP are blacklisted
 ```
 - :shipit: solution
 ```
