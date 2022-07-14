@@ -1,4 +1,4 @@
-# Proton_Privacy_Decoded
+# Proton-Privacy-Decoded
 # Script to Explore ProtonMail and Vpn
 
 <p align="center">
