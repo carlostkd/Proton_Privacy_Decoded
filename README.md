@@ -14,7 +14,7 @@
 
 ## What This Script Does?:
 
-- ⚡ Check for ProtonMail accounts and creation date
+- ⚡ Check for ProtonMail for valid accounts
 - ⚡ Check User PGP Key, creation date and Key Type
 - ⚡ Download PGP Keys
 - ⚡ Check if the IP address is from ProtonVPN and from which Country
