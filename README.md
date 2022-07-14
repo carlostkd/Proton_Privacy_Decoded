@@ -21,4 +21,9 @@
 - ⚡ ProtonMail User Footprints clear and Dark Web
 
 
-[Getting Started <g-emoji class="g-emoji" alias="footprints" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png">👣</g-emoji>](#getting-started-)
+[Getting Start <g-emoji class="g-emoji" alias="footprints" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png">👣</g-emoji>](#getting-started-)
+
+## Instalation
+```
+git clone https://github.com/carlostkd/Proton_Privacy_Decoded.git
+```
