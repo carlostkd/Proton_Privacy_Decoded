@@ -73,7 +73,7 @@ You should compare with "traces" or do a more extensive OSINT.
 
 
 
-- :shipit: For some weird reason if you abuse from ProtonMail API the API always returns all queried emails as True even if the Email is not a ProtonMail.
+- :shipit: For some weird reason if you abuse from ProtonMail API the API always returns all queried emails as True even if the Email is not a ProtonMail Email.
 ```
 do not abuse and everything runs fine
 ```
