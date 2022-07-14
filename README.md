@@ -46,3 +46,14 @@ python3 proton.py
 ```
 do not abuse and everything runs fine
 ```
+
+- :shipit: IP Address City Region Country etc returns values as "None"
+```
+The script uses a public api from ipapi with a limit of 30.000 queries a month
+If you are using some vpn its possible that your vpn IP are blacklisted
+```
+- :shipit: solution
+```
+Use another api 
+Change your VPN IP
+```
