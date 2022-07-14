@@ -56,7 +56,7 @@ python3 proton.py
 
 
 
-## Known Issues:
+## Known Issues that you shouldt report to me:
 
 - :shipit: Account Creation date refers only to the date of the Encrypted Key
 
