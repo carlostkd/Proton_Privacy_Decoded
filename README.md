@@ -43,6 +43,16 @@ python3 proton.py
 
 ### Screenshot 
 
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/carlostkd/EHR/master/ppd.png">
+
+</p>
+
+
+
+
+
 
 
 
