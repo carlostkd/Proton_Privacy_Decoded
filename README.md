@@ -73,9 +73,12 @@ You should compare with "traces" or do a more extensive OSINT.
 
 
 
-- :shipit: For some weird reason if you abuse from ProtonMail API the API always returns all queried emails as True even if the Email is not a ProtonMail Email.
+- :shipit: The API always returns all queried emails as True even if the Email is not a ProtonMail Email.
 ```
-do not abuse and everything runs fine
+API endpoints limits the frequency of communication such as the number of requests made to avoid potentially
+perform a Denial of Service (DoS) attack, disrupt logic, or cause other security implications.
+
+Do not abuse and everything runs fine
 ```
 
 - :shipit: IP Address City Region Country etc returns values as "None"
