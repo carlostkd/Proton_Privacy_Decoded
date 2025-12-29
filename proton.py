@@ -253,6 +253,26 @@ def pgp_key_view():
         if ans.lower() == "n":
             break
 
+def proton_vpn_ip_check():
+    ip = input("\U0001F4AC Enter IP address: ").strip()
+    token = "your_token_goes_here"
+    url = f"https://carlostkd.ch/proton/api.php?ip={ip}&token={token}"
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"}
+    try:
+        r = requests.get(url, headers=headers, timeout=20, verify=True)
+        r.raise_for_status()
+    except Exception as exc:
+        print("\U0001F4AC Request failed")
+        print(f"   → {type(exc).__name__}: {exc}")
+        return
+    try:
+        data = r.json()
+        print("\U0001F4AC JSON response:")
+        print(json.dumps(data, indent=2))
+    except ValueError:
+        print("\U0001F4AC Non‑JSON response:")
+        print(r.text[:500])
+
 def main():
     print_proton_banner()
     start = input('\U0001F4AC Type "c" to check API status or "go" to start: ')
@@ -262,7 +282,7 @@ def main():
     if view.lower() == "y":
         print_proton_intro()
     while True:
-        cmd = input('\U0001F4AC Choose [E]mail, [T]race, [W]eb, [K]eys: ').lower()
+        cmd = input('\U0001F4AC Choose [E]mail, [T]race, [W]eb, [K]eys, [I]P‑check: ').lower()
         if cmd == "e":
             proton_mail_account_check()
         elif cmd == "t":
@@ -271,6 +291,8 @@ def main():
             dark_web_traces()
         elif cmd == "k":
             pgp_key_information()
+        elif cmd == "i":
+            proton_vpn_ip_check()
         cont = input("\U0001F4AC Continue? (Y/N): ").lower()
         if cont != "y":
             break
